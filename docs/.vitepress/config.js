@@ -1,6 +1,7 @@
 export default {
   title: "Hi VitePress",
   description: "Just playing around",
+  base:"/vitepress-starter/",
   logo: "cat.webp",
   themeConfig: {
     nav: [
